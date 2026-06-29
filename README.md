@@ -1,6 +1,6 @@
 # WriteDNA — Academic Integrity System
 
-AI-powered writing fingerprint analysis to detect submission inconsistencies.
+AI-powered writing fingerprint analysis to detect submission inconsistencies. 
 
 ## Tech Stack
 - **Frontend**: React, React Router, Recharts
